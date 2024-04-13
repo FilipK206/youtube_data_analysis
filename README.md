@@ -28,11 +28,11 @@ The code performs the following tasks:
 
 1. Ensure you have all the required dependencies installed.
 2. Obtain an API key for the YouTube Data API v3 and replace `'API_KEY'` in the code with your actual API key.
-3. Run the provided Python script `youtube_video_analytics.py`.
+3. Run the provided Python script `data_collection_and_preprocessing.ipynb`.
 
 ## File Structure
 
-- `youtube_video_analytics.py`: Main Python script for retrieving and analyzing YouTube video analytics and comments.
+- `data_collection_and_preprocessing.ipynb`: Main Python script for retrieving and analyzing YouTube video analytics and comments.
 - `video_data.csv`: Dataset containing video metadata.
 - `comments_data.csv`: Dataset containing comments from selected videos.
 - `channel_data.csv`: Dataset containing channel metadata.
